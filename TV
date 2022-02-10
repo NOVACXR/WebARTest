@@ -1,0 +1,417 @@
+{
+	"Channels": [
+		{
+			"id": "0",
+			"name": "Thanthi News",
+			"url": "https://novacxr.github.io/WebARTest/pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/images/Green.png",
+			"texture": "https://novacxr.github.io/WebARTest/images/Green.png",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "1",
+			"name": "News 18",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "2",
+			"name": "Polimer News",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "http:\/\/localhost\/connection\/uploads\/bedroom_pillow.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "3",
+			"name": "Puthiyathalaimurai",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0000.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "4",
+			"name": "News 7",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0001.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "5",
+			"name": "News J",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "6",
+			"name": "Seithigal",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0003.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "7",
+			"name": "Lotus News",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0004.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "31",
+			"name": "1 Yes News",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0005.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "8",
+			"name": "Madhimugam TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0006.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "9",
+			"name": "Sooriyan Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0007.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "10",
+			"name": "Kalaignar TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0008.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "12",
+			"name": "Akaram Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0009.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "19",
+			"name": "Sirippoli",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0010.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "13",
+			"name": "IBC Comedy",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0000.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "14",
+			"name": "IBC Tamil",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0001.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "11",
+			"name": "7s Music",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "15",
+			"name": "IBC Music",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0003.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "21",
+			"name": "ACN Music",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0004.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "26",
+			"name": "Isaiaruvi ",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0005.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "27",
+			"name": "MK Tunes",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0006.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "16",
+			"name": "Puthuyugam TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0007.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "17",
+			"name": "Tamail Vision International Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0008.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "18",
+			"name": "Vaanavil TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0009.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "20",
+			"name": "Makkal TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/00010.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "22",
+			"name": "Tamilan TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0000.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "23",
+			"name": "Sangamam Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0001.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "24",
+			"name": "Vasanth Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0000.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "25",
+			"name": "Peppers TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0001.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "28",
+			"name": "Murasu TV",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "29",
+			"name": "Mk Tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0003.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "30",
+			"name": "Mksix tv",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0004.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "32",
+			"name": "Blessing TV +",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "33",
+			"name": "Madha Tv +",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		}
+		
+	],
+"Pillow": [
+		{
+			"id": "0",
+			"name": "Thanthi News",
+			"url": "https://novacxr.github.io/WebARTest/pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/images/Green.png",
+			"texture": "https://novacxr.github.io/WebARTest/images/Green.png",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "1",
+			"name": "News 18",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "2",
+			"name": "Polimer News",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "http:\/\/localhost\/connection\/uploads\/bedroom_pillow.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "3",
+			"name": "Puthiyathalaimurai",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0000.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "4",
+			"name": "News 7",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0001.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "5",
+			"name": "News J",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0002.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		},
+		{
+			"id": "6",
+			"name": "Seithigal",
+			"url": "https://novacxr.github.io/WebARTest/Pillow.zip",
+			"pay": "0",
+			"image": "https://novacxr.github.io/WebARTest/Pillow%20Texture/0003.jpg",
+			"texture": "https://novacxr.github.io/WebARTest/blossom.jpg",
+			"video_type": "Online",
+			"total_views": "1"
+		}
+              ]
+}
